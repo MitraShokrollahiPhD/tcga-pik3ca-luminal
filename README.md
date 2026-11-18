@@ -21,7 +21,6 @@ TCGA-BRCA PanCancer Atlas (via cBioPortalData): somatic mutations, RNA-seq (RSEM
 ![Volcano](results/volcano_pik3ca.png)
 
 ![STRING network](results/string_network_pik3ca.png)
-*Network of the top 100 genes by adjusted p-value (97 mapped to STRING; interaction score >= 0.4).*
 
 ![Kaplan-Meier](results/km_pik3ca.png)
 
