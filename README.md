@@ -14,7 +14,7 @@ TCGA-BRCA PanCancer Atlas (via cBioPortalData): somatic mutations, RNA-seq (RSEM
 
 ## Results
 - 311 genes higher and 138 lower in PIK3CA-mutant tumors. IRS2 (Insulin Receptor Substrate 2) was lower (log2FC -0.70), consistent with known PI3K feedback on insulin/IGF signaling because in luminal breast cancers with activating PIK3CA mutations, PI3K signaling is chronically turned on, which triggers an internal negative feedback loop that tells the cell to dial back upstream receptors like IRS2.
-- PIK3CA mRNA itself was unchanged (log2FC 0.05), as expected fsor hotspot mutations that alter activity rather than expression.
+- PIK3CA mRNA itself was unchanged (log2FC 0.05), as expected for hotspot mutations that alter activity rather than expression.
 - Enrichment was dominated by broad extracellular and secreted-protein terms, with weaker neuronal-system and ion-transport terms and no PI3K-specific pathway was detected.
 - Survival: HR 1.45 (95% CI 0.93-2.26, p = 0.10) after subtype adjustment, no statistically significant association.
 
